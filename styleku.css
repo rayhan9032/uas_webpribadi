@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color: darkorange;
+}
+
+
+/* ini komentar */
+
+p {
+    text-align: justify;
+}
+
+#teksmerah{
+    color: red;
+}
+
+#teksbiru{
+    color: blue;
+}
+
+.fontbesar {
+    font-size: 40px;
+}
+
+.fontarial {
+    font-family: Arial, Helvetica, sans-serif;
+}
